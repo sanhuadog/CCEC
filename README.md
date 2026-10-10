@@ -54,7 +54,7 @@ Run the following unified setup commands to configure the Conda environment, ins
 
 ```bash
 # 1. Create & activate environment, install PyTorch and dependencies
-conda create -n reap python=3.10 -y && conda activate reap
+conda create -n ccec python=3.10 -y && conda activate ccec
 pip install torch --index-url https://download.pytorch.org/whl/cu121
 pip install -r requirements.txt
 
