@@ -1,6 +1,6 @@
 # Commonsense Error Correction Based on Hierarchical Traceability Reasoning
 
-Official repository for the **anonymous submission** to ARR. This repository contains the source code, evaluation tools, prompt templates, and dataset for **CCEC** (Contextual Commonsense Error Correction) and the **CCECD** benchmark.
+Official repository for the **anonymous submission** to DASFAA. This repository contains the source code, evaluation tools, prompt templates, and dataset for **CCEC** (Contextual Commonsense Error Correction) and the **CCECD** benchmark.
 
 **Note on Anonymity:** To adhere to double-blind review policies, all author details, institutional affiliations, and specific server/local path signatures have been removed or anonymized.
 Anonymous link: https://anonymous.4open.science/r/CCEC-0FF0/
